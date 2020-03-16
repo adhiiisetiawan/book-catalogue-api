@@ -21,7 +21,7 @@
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/books",
-      "applicationUrl": "https://apikatalogbuku.azurewebsites.net/",
+      "applicationUrl": "https://apikatalogbuku.azurewebsites.net/api/books",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
