@@ -4,7 +4,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "https://apikatalogbuku.azurewebsites.net/",
+      "applicationUrl": "http://localhost:23204",
       "sslPort": 44356
     }
   },
